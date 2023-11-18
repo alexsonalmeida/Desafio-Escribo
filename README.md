@@ -1,5 +1,5 @@
 # Como executar
-## Existe 3 formas de executar o exemplo. Segue uma descrição de cada uma
+## Existem 3 formas de executar o exemplo. Segue uma descrição de cada uma
 ### Terminal
 A primeira forma de testar o exemplo é utilizando o terminal e o NodeJS. Para isso, é necessário ter o NodeJS instalado na máquina. Depois, abra o terminal e siga os passos.
 #### Clone o repositório
