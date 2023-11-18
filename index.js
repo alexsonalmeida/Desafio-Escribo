@@ -8,10 +8,9 @@ function calculaSomatorioDe3Ou5(n) {
         }
     }
 
+    console.log(soma)
     return soma;
 }
-
-calculaSomatorioDe3Ou5(10)
 
 function chamaCalculo() {
     const inputElement = document.getElementById("inputNumber")
@@ -28,3 +27,5 @@ function chamaCalculo() {
     }
     
 }
+
+calculaSomatorioDe3Ou5(10)
