@@ -38,15 +38,15 @@ $ open index.html
 ##### Linux
 Na maior parte dos casos, pode ser usado o comando:
 ```bash
-$ xdg-open arquivo.html
+$ xdg-open index.html
 ```
 Em algumas distribuições, porém, pode ser necessário usar alguns dos seguintes comandos:
 ```bash
-$ gnome-open arquivo.html
+$ gnome-open index.html
 ```
 ou
 ```bash
-$ kde-open arquivo.html
+$ kde-open index.html
 ```
 Então, abra o console do seu navegador. A depender do navegador, o processo pode ser diferente, mas, de uma maneira geral, clique na tecla F12 do seu teclado. Então, no console, chame a função digitando calculaSomatorioDe3Ou5() e passe como parâmetro o número que quiser.
 ### Interface web
